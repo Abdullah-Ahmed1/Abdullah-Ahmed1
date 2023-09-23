@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **FEDERAL**
 
-- 🌱 I’m currently learning **Vue js**
+- 🌱 I’m currently learning **GraphQL**
 
 - 💬 Ask me about **react,redux,express**
 
