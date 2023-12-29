@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-ahmed1&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-ahmed1" /> </p>
 
-- 🔭 I’m currently working on **FEDERAL**
+- 🔭 I’m currently working on **CAR-STUDIO**
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **THREE JS**
 
-- 💬 Ask me about **react,redux,express**
+- 💬 Ask me about **react,redux,express, three js, jotai, typescript**
 
 - 📫 How to reach me **abdullah.ahmed10001@gmail.com**
 
